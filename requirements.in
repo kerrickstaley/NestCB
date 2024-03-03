@@ -1,0 +1,15 @@
+jupyter
+jupytext
+diskcache
+haversine
+more-itertools
+requests-cache
+suntime
+tqdm
+bs4
+ruamel.yaml
+pytz
+geopy
+geopandas
+pytest
+folium

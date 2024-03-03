@@ -1,0 +1,9 @@
+isd-history.csv
+aqi/aqs_key.txt
+*.ipynb
+/config
+/.cache
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+/venv
