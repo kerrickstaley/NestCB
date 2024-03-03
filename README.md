@@ -3,6 +3,8 @@ This is a tool that can help you decide where the best place for you to live is.
 
 For example, how much would you pay to live in a city that is identical to New York City, except that it has the weather of San Francisco? SF has better weather than NYC, so it should be a positive value. Would you pay $100 a year? $1,000? $10,000? To do a cost/benefit analysis, you need to answer this question for all the major factors that go into the desirability of a location.
 
+You input your preferences, and NestCB automatically downloads and processes data on factors like weather and housing costs to compute an annual dollar value for each location.
+
 This project is incomplete. I'm putting it out into the world because I think it's already useful for getting a rough sense of where you might want to live, and hopefully others will use and contribute to it :)
 
 ## Quick start
